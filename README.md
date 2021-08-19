@@ -1,1 +1,1 @@
-TODO: Hey do this thing https://jekyllthemes.io/theme/feeling-responsive
+TODO: Rebuild stuff because we ought to have a simpler, cleaner website without so much JavaScript. No need for it on this particular site.
